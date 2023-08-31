@@ -1,7 +1,7 @@
 Package: atlas.plot
 Type: Package
 Title: Automated Plotting in R
-Version: 1.0.0
+Version: 1.0.3
 Author: Cao Bittencourt
 Maintainer: Cao Bittencourt <caobittencourt@gmail.com>
 Description: This package streamlines repetitive plotting procedures. Currently, it supports only 'ggplot2' and similar packages.
