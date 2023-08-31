@@ -2378,6 +2378,7 @@ fun_plot.dumbbell <- function(
     ) +
     theme(
       axis.text.y = element_text(vjust = 0.5)
+      , axis.title.y = element_blank()
       , legend.position = 'bottom'
       , legend.direction = 'horizontal'
     )
